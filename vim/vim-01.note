@@ -97,10 +97,3 @@ vimdiff fileo filen    zo    zc    ]c    [c    //  差异比较 / 跳转
 
   | 代码缩进
 :set shiftwidth=4
-
-
-
-@~: time
-
-# [01] #
-[usr_doc][?]
